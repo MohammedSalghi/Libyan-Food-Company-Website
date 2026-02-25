@@ -2,7 +2,16 @@
 
 A modern, high-performance web application for a Libyan company specializing in the import of international food products (grain, oils, etc.).
 
-## 🚀 Features
+## � Frontend Screenshots
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MohammedSalghi/Libyan-Food-Company-Website/main/screenshots/1.png" width="48%" alt="Hero Section" />
+  <img src="https://raw.githubusercontent.com/MohammedSalghi/Libyan-Food-Company-Website/main/screenshots/2.png" width="48%" alt="About Section" />
+  <img src="https://raw.githubusercontent.com/MohammedSalghi/Libyan-Food-Company-Website/main/screenshots/3.png" width="48%" alt="Services Section" />
+  <img src="https://raw.githubusercontent.com/MohammedSalghi/Libyan-Food-Company-Website/main/screenshots/4.png" width="48%" alt="Projects Section" />
+</div>
+
+## �🚀 Features
 
 - **Modern UI/UX**: Premium design with smooth animations using Framer Motion.
 - **Dynamic Content**: Managed backend for news, projects, and services.
